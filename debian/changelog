@@ -1,3 +1,9 @@
+sofia-sip (1.13.14-4736350504~563bd09b86~jammy) jammy; urgency=medium
+
+  * Nightly build, 563bd09b86
+
+ -- FreeSWITCH Solutions <packages@freeswitch.com>  Tue, 18 Apr 2023 19:48:18 +0000
+
 sofia-sip (1.13.14-advv~asva~stretch) stretch; urgency=medium
 
   * Nightly build, asba
