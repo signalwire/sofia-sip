@@ -1,3 +1,9 @@
+sofia-sip (1.13.14-4834723862~2a0df3e6d1~jammy) jammy; urgency=medium
+
+  * Nightly build, 2a0df3e6d1
+
+ -- FreeSWITCH Solutions <packages@freeswitch.com>  Fri, 28 Apr 2023 21:01:11 +0000
+
 sofia-sip (1.13.14-1) unstable; urgency=medium
 
   * New Release.
